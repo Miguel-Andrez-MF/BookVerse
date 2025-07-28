@@ -224,8 +224,8 @@ spring.jpa.hibernate.ddl-auto=update
 
 **Miguel Andres Marin**
 
-- 🔗 LinkedIn: [tu-linkedin]
-- 🐙 GitHub: [@Miguel-Andrez-MF]
+- 🐙 GitHub: [@Miguel-Andrez-MF](https://github.com/Miguel-Andrez-MF)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/miguel-andres-marin-fernandez-044574341)
 
 ---
 
