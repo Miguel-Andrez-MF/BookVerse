@@ -1,4 +1,4 @@
-![BookVerse Logo](./assets/bookverse-banner.png)
+![BookVerse Logo](./assets/bookverse-banner.svg)
 
 <div align="center">
 
